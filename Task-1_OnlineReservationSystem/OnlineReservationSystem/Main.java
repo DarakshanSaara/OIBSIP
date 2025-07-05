@@ -81,3 +81,15 @@ public class Main {
         }
     }
 }
+
+/*
+ git init
+git add .
+git commit -m "Initial commit: Java Online Reservation System for Oasis Infobyte Internship"
+git branch -M main
+git remote add origin https://github.com/DarakshanSaara/OIBSIP.git
+git push -u origin main
+
+To move to a folder:
+Move-Item -Path "Main.java" -Destination "Task-1_OnlineReservationSystem"
+ */

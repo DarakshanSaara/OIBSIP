@@ -1,0 +1,9 @@
+PNR: PNR3271110000
+Name: saara
+Train No: 1002
+Train Name: Rajdhani Express
+Class Type: AC
+From: Delhi
+To: Mumbai
+Date of Journey: 02-07-2025
+--------------------------------------------------
