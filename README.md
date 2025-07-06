@@ -15,14 +15,36 @@ A console-based Java application that allows users to book, view, and cancel tra
 - View and cancel existing reservations
 - Menu-driven interface
 
+### 🔹 Task 2: Number Guessing Game
+A fun and interactive Java console application where the user tries to guess a randomly generated number by the computer within a range. The project enhances logic-building skills and user interaction in a loop-based structure.
+
+**Features:**
+- Random number generation between 1 to 100
+- User prompt and input handling
+- Feedback on whether the guessed number is too high or too low
+- Count of total attempts made
+- Infinite loop until the correct number is guessed
+- Clean and user-friendly console messages
+
+### 🔹 Task 3: ATM Interface
+A Java-based ATM simulation system that provides basic banking operations in a console environment. This project helps understand method-based program structure and real-world banking operations simulation.
+
+**Features:**
+- Display current account balance
+- - Withdraw money with sufficient balance check
+- Deposit money to the account
+- Simulated transfer operation
+- Basic transaction history tracking
+- Simple and menu-based user interaction
+
 ---
 
 ## ⏳ Upcoming Tasks
 
 | Task No. | Project Title               | Status     |
 |----------|-----------------------------|------------|
-| Task 2   | Number Guessing Game        | In Progress|
-| Task 3   | ATM Interface               | Upcoming   |
+| Task 4   | Online Examination          | In Progress|
+| Task 5   | Digital Library Management  | Upcoming   |
 
 ---
 
@@ -50,6 +72,32 @@ A console-based Java application that allows users to book, view, and cancel tra
 
    ```
 
+### 🟦 Task 2: Number Guessing Game
+
+1. Open terminal in the project directory  
+2. Compile the file:
+   ```
+   javac GuessTheNumber.java
+
+   ```
+3. Run the file:
+   ```
+   java GuessTheNumber
+   ```
+
+### 🟦 Task 3: ATM Interface
+
+1. Open terminal in the project directory  
+2. Compile the file:
+   ```
+   javac ATMInterface.java
+
+   ```
+3. Run the file:
+   ```
+   java ATMInterface
+   ```
+   
 ## 📸 Screenshots
 ![image](https://github.com/user-attachments/assets/597ec7dc-bcc1-46ec-95a0-e70c2e2ffc45)
 
