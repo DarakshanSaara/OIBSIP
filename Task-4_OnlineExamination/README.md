@@ -16,6 +16,8 @@ A Java-based console application simulating an online exam portal with login, pr
 2. Run: `java OnlineExaminationSystem`
 
 ## 📸 Screenshot 
+<img width="1340" height="858" alt="Screenshot 2025-07-11 213625" src="https://github.com/user-attachments/assets/a5d87300-795e-4d5f-aec3-4a0f1c269a7c" />
+<img width="1344" height="349" alt="Screenshot 2025-07-11 213655" src="https://github.com/user-attachments/assets/bb4f0ab2-9cff-4729-a8d2-91c4ccdb3afb" />
 
 ## 📁 Folder Structure
 
@@ -31,3 +33,10 @@ OIBSIP/
 
 - Java (Console-based)
 - No external dependencies
+
+---
+
+## 👩‍🎓 Author
+
+Saara Darakshan
+Connect with me on github (https://github.com/DarakshanSaara)
