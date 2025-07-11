@@ -44,6 +44,8 @@ HTML by Veer
 ---
 
 **📸 Screenshot:**  
+<img width="1372" height="890" alt="Screenshot 2025-07-11 222844" src="https://github.com/user-attachments/assets/2daca6cf-df8d-4430-9a9b-6bc88604be5c" />
+<img width="1335" height="797" alt="Screenshot 2025-07-11 222934" src="https://github.com/user-attachments/assets/f7dc1fc7-7b5b-4106-844a-f3f1786319d6" />
 
 ---
 
