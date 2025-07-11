@@ -41,6 +41,8 @@ This is a simple **console-based ATM interface** built using Java. It allows use
 ---
 
 ## 🖼️ Screenshot
+![Screenshot 2025-07-05 224908](https://github.com/user-attachments/assets/da150a67-4b45-4199-aed5-2b6586073da1)
+![Screenshot 2025-07-05 224929](https://github.com/user-attachments/assets/d0984c24-ac28-4fcf-b37d-155379b9b91b)
 
 ---
 
