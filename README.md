@@ -37,14 +37,27 @@ A Java-based ATM simulation system that provides basic banking operations in a c
 - Basic transaction history tracking
 - Simple and menu-based user interaction
 
----
+### 🔹 Task 4: Online Examination System
+A Java-based console application that simulates an online examination portal with essential features such as login, profile update, multiple-choice questions, and auto-submit functionality. It emphasizes control flow, timers, and menu-driven logic.
 
-## ⏳ Upcoming Tasks
+**Features:**
+- User login system with profile and password update options
+- Multiple-choice questions (MCQs) selection
+- Timer-based exam with auto-submission after time ends
+- Display score after submission
+- Secure session handling and logout option
+- Console-based interactive exam environment
 
-| Task No. | Project Title               | Status     |
-|----------|-----------------------------|------------|
-| Task 4   | Online Examination          | In Progress|
-| Task 5   | Digital Library Management  | Upcoming   |
+### 🔹 Task 5: Digital Library Management System
+A console-based Java application that mimics a real-world digital library. The system enables both admin and user interactions, covering key features of a modern library.
+
+**Features:**
+- Display available books with authors and status
+- Issue book (status changes to "issued" and doesn't show in available list)
+- Return issued books
+- Add new books to the library
+- Modular design using inheritance and object-oriented principles
+- Interactive menu-driven system for user operations
 
 ---
 
